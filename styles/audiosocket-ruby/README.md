@@ -108,8 +108,6 @@ Explicitly nest subclasses/modules. Nesting exposes more secondary
 information (which ancestors are classes and which are models) and
 reduces order-of-require problems in some cases.
 
-#### Worse
-
 ```ruby
 class App::Mediator::SomeModel < Mediator
   # ...
