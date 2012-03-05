@@ -39,7 +39,7 @@ instead of implementation. When naming abstract superclasses, prefer a
 general noun to `Base`. When naming modules, try to describe the extra
 behavior the module provides instead of falling back on nouns.
 
-#### Bad (too verbose)
+#### Worse (too verbose)
 
 ```ruby
 class CollectionOfBlankets
@@ -55,7 +55,7 @@ class Blankets
 end
 ```
 
-#### Bad (specific implementation)
+#### Worse (specific implementation)
 
 ```ruby
 class SHA1Fingerprinter
@@ -63,7 +63,7 @@ class SHA1Fingerprinter
 end
 ```
 
-### Better
+#### Better
 
 ```ruby
 class Fingerprinter
@@ -71,7 +71,7 @@ class Fingerprinter
 end
 ```
 
-#### Bad (abuse of "Base")
+#### Worse (abuse of "Base")
 
 ```ruby
 module Presenter
@@ -89,7 +89,7 @@ class Presenter
 end
 ```
 
-#### Bad (noun module)
+#### Worse (noun module)
 
 ```ruby
 module EventEmitter
@@ -111,7 +111,7 @@ Explicitly nest subclasses/modules. Nesting exposes more secondary
 information (which ancestors are classes and which are models) and
 reduces order-of-require problems in some cases.
 
-#### Bad
+#### Worse
 
 ```ruby
 class App::Mediator::SomeModel < Mediator
