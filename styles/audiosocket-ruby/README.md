@@ -32,7 +32,7 @@ each class/module in its own file. Create the file name by translating
 the CamelCased full name of the class/module to slashes and
 underscores:
 
-    App::Mediator::SomeModel -> app/mediator/some_model.rb
+    App::Mediator::SomeModel  # => app/mediator/some_model.rb
     
 ### Naming
 
