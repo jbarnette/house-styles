@@ -36,12 +36,7 @@ underscores:
     
 ### Naming
 
-Be explicit, but not verbose. Be specific, but describe purpose
-instead of implementation. When naming abstract superclasses, prefer a
-general noun to `Base`. When naming modules, try to describe the extra
-behavior the module provides instead of falling back on nouns.
-
-#### Worse (too verbose)
+#### Be Explicit, but not verbose.
 
 ```ruby
 class CollectionOfBlankets
@@ -57,7 +52,7 @@ class Blankets
 end
 ```
 
-#### Worse (specific implementation)
+#### Be specific, but describe purpose instead of implementation.
 
 ```ruby
 class SHA1Fingerprinter
@@ -73,7 +68,7 @@ class Fingerprinter
 end
 ```
 
-#### Worse (abuse of "Base")
+#### Prefer a general noun to "Base."
 
 ```ruby
 module Presenter
@@ -91,10 +86,10 @@ class Presenter
 end
 ```
 
-#### Worse (noun module)
+#### Favor adjectives when naming mixins.
 
 ```ruby
-module EventEmitter
+module EventSource
   # ...
 end
 ```
