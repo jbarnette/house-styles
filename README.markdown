@@ -12,7 +12,7 @@ alphabetized).
 
 ## Styles
 
-* [Audiosocket (Ruby)][/jbarnette/house-styles/blob/master/styles/audiosocket-ruby.markdown#readme]
+* [Audiosocket (Ruby)](/jbarnette/house-styles/blob/master/styles/audiosocket-ruby.markdown#readme)
 
 ## License (Unlicense)
 
