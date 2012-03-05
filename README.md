@@ -16,6 +16,10 @@ consider including some full example files next to your guide's
 `README.md`. Name the primary example file `example.lang`, e.g.,
 `styles/audiosocket-ruby/example.rb`.
 
+One final note: They're called **"house styles"** for a reason: Your
+house, your rules. When you're in someone else's house, treat their
+code and rules with respect.
+
 ## Styles
 
 * [Audiosocket (Ruby)](/jbarnette/house-styles/blob/master/styles/audiosocket-ruby#readme)
