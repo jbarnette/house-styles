@@ -1,7 +1,18 @@
 # House Styles
 
 A repository of code style guides, written in Markdown. Fork it, add
-your own, and send a pull request!
+your own, and send a pull request! Copy the structure of an existing
+style guide if you like it, but feel free to improve as well.
+
+## Metaguide
+
+Write your style guide in Markdown and wrap lines at 80 columns.
+
+## Styles
+
+* [Audiosocket (Ruby)][audiosocket-ruby]
+
+[audiosocket-ruby]: styles/audiosocket-ruby.markdown#readme
 
 ## License (Unlicense)
 
