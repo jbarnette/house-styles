@@ -6,19 +6,23 @@ style guide if you like it, but feel free to improve as well.
 
 ## Meta
 
-Write your guide in Markdown, wrap at 80 columns. Don't forget to add
-it to the **Styles** section below (and please keep it alphabetized).
-The guide itself should go in `styles/org-lang/README.md`, e.g.,
-`styles/audiosocket-ruby/README.md`.
+* Write your guide in Markdown, wrap at 80 columns. Don't forget to
+  add it to the **Styles** section below (and please keep it
+  alphabetized). The guide itself should go in
+  `styles/org-lang/README.md`, e.g.,
+  `styles/audiosocket-ruby/README.md`.
 
-Examples are awesome. Inline examples in your guide are good, but also
-consider including some full example files next to your guide's
-`README.md`. Name the primary example file `example.lang`, e.g.,
-`styles/audiosocket-ruby/example.rb`.
+* Examples are awesome. Inline examples in your guide are good, but
+  also consider including some full example files next to your guide's
+  `README.md`. Name the primary example file `example.lang`, e.g.,
+  `styles/audiosocket-ruby/example.rb`.
 
-One final note: They're called **"house styles"** for a reason: Your
-house, your rules. When you're in someone else's house, treat their
-code and rules with respect.
+* Expose your rationale. Even if it's as simple as "I like this
+  better," it helps to understand why a guideline exists.
+
+* One final note: They're called **"house styles"** for a reason: Your
+  house, your rules. When you're in someone else's house, treat their
+  code and rules with respect.
 
 ## Styles
 
