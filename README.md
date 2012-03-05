@@ -1,14 +1,16 @@
 # House Styles
 
-A repository of code style guides, written in Markdown. Fork it, add
-your own, and send a pull request! Copy the structure of an existing
-style guide if you like it, but feel free to improve as well.
+A repository of code style guides, written in [GitHub Flavored
+Markdown][GFM]. Fork it, add your own, and send a pull request! Copy
+the structure of an existing style guide if you like it, but feel free
+to improve as well.
 
 ## Meta
 
-* Write your guide in Markdown, wrap at 80 columns. Don't forget to
-  add it to the **Styles** section below (and please keep it
-  alphabetized). The guide itself should go in
+* Write your guide in [GitHub Flavored Markdown][GFM], wrap at 80
+  columns (it's easier for me to read). Don't forget to add it to the
+  **Styles** section below (and please keep it alphabetized, it's
+  easier to scan). The guide itself should go in
   `styles/org-lang/README.md`, e.g.,
   `styles/audiosocket-ruby/README.md`.
 
@@ -23,6 +25,8 @@ style guide if you like it, but feel free to improve as well.
 * One final note: They're called **"house styles"** for a reason: Your
   house, your rules. When you're in someone else's house, treat their
   code and rules with respect.
+
+[GFM]: http://github.github.com/github-flavored-markdown
 
 ## Styles
 
