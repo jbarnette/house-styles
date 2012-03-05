@@ -6,12 +6,19 @@ style guide if you like it, but feel free to improve as well.
 
 ## Meta
 
-Write your guide in Markdown, wrap at 80. Don't forget to add it to
-the **Styles** section below (and please keep it alphabetized).
+Write your guide in Markdown, wrap at 80 columns. Don't forget to add
+it to the **Styles** section below (and please keep it alphabetized).
+The guide itself should go in `styles/org-language/README.markdown`,
+e.g., `styles/audiosocket-ruby/README.markdown`.
+
+Examples are awesome. Inline examples in your guide are good, but also
+consider including some full example files next to your guide's
+`README.markdown`. Name the primary example file `example.language`,
+e.g., `styles/audiosocket-ruby/example.rb`.
 
 ## Styles
 
-* [Audiosocket (Ruby)](/jbarnette/house-styles/blob/master/styles/audiosocket-ruby.markdown#readme)
+* [Audiosocket (Ruby)](/jbarnette/house-styles/blob/master/styles/audiosocket-ruby#readme)
 
 ## License (Unlicense)
 
