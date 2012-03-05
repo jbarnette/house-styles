@@ -18,7 +18,8 @@ Yup, guidelines aren't laws. These are, though:
 ## Invariants
 
 * Wrap at 80 columns.
-* Use vertical whitespace liberally. We're not going to run out.
+* Use vertical whitespace liberally (but only one line at a time).
+  We're not going to run out.
 
 ## Classes and Modules
 
