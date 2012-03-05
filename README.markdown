@@ -12,7 +12,7 @@ Write your style guide in Markdown and wrap lines at 80 columns.
 
 * [Audiosocket (Ruby)][audiosocket-ruby]
 
-[audiosocket-ruby]: styles/audiosocket-ruby.markdown#readme
+[audiosocket-ruby]: blob/master/styles/audiosocket-ruby.markdown#readme
 
 ## License (Unlicense)
 
