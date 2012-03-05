@@ -13,7 +13,7 @@ The guide itself should go in `styles/org-lang/README.md`, e.g.,
 
 Examples are awesome. Inline examples in your guide are good, but also
 consider including some full example files next to your guide's
-`README.md`. Name the primary example file `example.language`, e.g.,
+`README.md`. Name the primary example file `example.lang`, e.g.,
 `styles/audiosocket-ruby/example.rb`.
 
 ## Styles
