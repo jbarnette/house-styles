@@ -1,5 +1,7 @@
 # Audiosocket (Ruby)
 
+**THIS IS IN PROGRESS.**
+
 This covers all Ruby code, no matter what framework or purpose. Tests,
 migrations, and Rake tasks are code too.
 
