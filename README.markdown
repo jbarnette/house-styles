@@ -6,9 +6,8 @@ style guide if you like it, but feel free to improve as well.
 
 ## Meta
 
-Write your style guide in Markdown and wrap lines at 80 columns. Don't
-forget to add it to the **Styles** section below (and please keep it
-alphabetized).
+Write your guide in Markdown, wrap at 80. Don't forget to add it to
+the **Styles** section below (and please keep it alphabetized).
 
 ## Styles
 
