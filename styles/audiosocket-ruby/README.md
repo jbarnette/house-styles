@@ -36,7 +36,10 @@ underscores:
     
 ### Naming
 
-#### Be Explicit, but not verbose.
+#### Be explicit, but not verbose.
+
+Verbose names are harder and more fatiguing to read. Too many verbose
+names can also promote overreaction and abbreviation.
 
 ```ruby
 class CollectionOfBlankets
@@ -54,6 +57,10 @@ end
 
 #### Be specific, but describe purpose instead of implementation.
 
+Taking an extra second to think about the purpose and not the tools
+makes it a lot easier to refactor later on. Think about switching your
+hash algorithm, your queuing solution, etc.
+
 ```ruby
 class SHA1Fingerprinter
   # ...
@@ -69,6 +76,8 @@ end
 ```
 
 #### Prefer a general noun to "Base."
+
+"Base" is like "Manager." They're both lazy, content-free names.
 
 ```ruby
 module Presenter
@@ -87,6 +96,11 @@ end
 ```
 
 #### Favor adjectives when naming mixins.
+
+This certainly isn't the case for all modules, but mixins should
+generally be adding a category of structure or behavior to a class. If
+it's a category of structure or behavior, you should be able to
+describe it with an adjective.
 
 ```ruby
 module EventSource
