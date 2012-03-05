@@ -14,6 +14,8 @@ Yup, guidelines aren't laws. These are, though:
 * Follow these. If you see code that doesn't, fix it.
 * Use your brain. Ignore the guidelines when it's appropriate.
 * ...but not unilaterally.
+* Obsess about this stuff. Make it damn near impossible to figure out
+  who wrote any given line of code without source control.
 
 ## Invariants
 
