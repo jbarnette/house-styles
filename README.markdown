@@ -4,15 +4,15 @@ A repository of code style guides, written in Markdown. Fork it, add
 your own, and send a pull request! Copy the structure of an existing
 style guide if you like it, but feel free to improve as well.
 
-## Metaguide
+## Meta
 
-Write your style guide in Markdown and wrap lines at 80 columns.
+Write your style guide in Markdown and wrap lines at 80 columns. Don't
+forget to add it to the **Styles** section below (and please keep it
+alphabetized).
 
 ## Styles
 
-* [Audiosocket (Ruby)][audiosocket-ruby]
-
-[audiosocket-ruby]: blob/master/styles/audiosocket-ruby.markdown#readme
+* [Audiosocket (Ruby)][/jbarnette/house-styles/blob/master/styles/audiosocket-ruby.markdown#readme]
 
 ## License (Unlicense)
 
