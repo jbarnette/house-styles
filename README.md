@@ -8,13 +8,13 @@ style guide if you like it, but feel free to improve as well.
 
 Write your guide in Markdown, wrap at 80 columns. Don't forget to add
 it to the **Styles** section below (and please keep it alphabetized).
-The guide itself should go in `styles/org-language/README.markdown`,
-e.g., `styles/audiosocket-ruby/README.markdown`.
+The guide itself should go in `styles/org-lang/README.md`, e.g.,
+`styles/audiosocket-ruby/README.md`.
 
 Examples are awesome. Inline examples in your guide are good, but also
 consider including some full example files next to your guide's
-`README.markdown`. Name the primary example file `example.language`,
-e.g., `styles/audiosocket-ruby/example.rb`.
+`README.md`. Name the primary example file `example.language`, e.g.,
+`styles/audiosocket-ruby/example.rb`.
 
 ## Styles
 
