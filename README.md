@@ -7,10 +7,9 @@ to improve as well.
 
 ## Meta
 
-* Write your guide in [GitHub Flavored Markdown][GFM], wrap at 80
-  columns (it's easier for me to read). Don't forget to add it to the
-  **Styles** section below (and please keep it alphabetized, it's
-  easier to scan). The guide itself should go in
+* Write your guide in [GitHub Flavored Markdown][GFM]. Don't forget to
+  add it to the **Styles** section below (and please keep it
+  alphabetized, it's easier to scan). The guide itself should go in
   `styles/org-lang/README.md`, e.g.,
   `styles/audiosocket-ruby/README.md`.
 
