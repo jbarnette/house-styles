@@ -1,6 +1,7 @@
 # Cirro
-### This is in progress.
+### This will always be in progress.
 This is supposed to cover as many code syntax and scenarios that might come up whilst writing code for/with Cirro.
+Many ideas and structures were borrowed(stolen) from other people including jbarnette, [jQuery Core Style Guidelines](http://docs.jquery.com/JQuery_Core_Style_Guidelines) as well as seeing other people do awesome and stupid things.
 
 # The Laws
 * Follow the guidelines consistently. If you see code that doesn't, fix it.
